@@ -1,0 +1,27 @@
+{
+  "name": "experiment-vuejs-meteorjs",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "meteor run",
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/experiment-solutions/experiment-vuejs-meteorjs.git"
+  },
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://descco.com.br)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/experiment-solutions/experiment-vuejs-meteorjs/issues"
+  },
+  "homepage": "https://github.com/experiment-solutions/experiment-vuejs-meteorjs#readme",
+  "devDependencies": {
+    "vue": "^1.0.26"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0"
+  }
+}
