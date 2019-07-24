@@ -1,7 +1,12 @@
 # Experiment VueJS with MeteorJS
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/experiment-solutions/experiment-vuejs-meteorjs.svg?style=flat-square)](https://github.com/experiment-solutions/experiment-vuejs-meteorjs/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/experiment-vuejs-meteorjs.svg)](https://github.com/org-victorinox/experiment-vuejs-meteorjs/issues)
+![GitHub package.json version](https://img.shields.io/github/package-json/v/org-victorinox/experiment-vuejs-meteorjs.svg)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/experiment-vuejs-meteorjs.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/experiment-vuejs-meteorjs.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/experiment-vuejs-meteorjs.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/experiment-vuejs-meteorjs/total.svg)
 
 ## Contributing
 
@@ -13,7 +18,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/experiment-solutions/experiment-vuejs-meteorjs/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/experiment-vuejs-meteorjs/releases) for detailed changelog.
 
 ## License
 
